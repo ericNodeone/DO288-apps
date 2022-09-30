@@ -4,4 +4,5 @@ metadata:
   name: configmap-hello
 data:
   APP_MSG: Can I give value to other values here?
+  HOSTNAME: Can I change hostname instead of container name?
           
